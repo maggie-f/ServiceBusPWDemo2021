@@ -7,10 +7,10 @@ The 7th annual Cognizant Softvision Programmers’ Week was a six day event for 
 
 ### What's about?
 
-In this tech talk I talk about the functionality of **Azure Service Bus**, the patterns and protocols that it implements, its uses and when it is recommended to use it in other things.
+In this tech talk about the functionality of **Azure Service Bus**, the patterns and protocols that it implements, its uses and when it is recommended to use it in other things.
 
 
-Here the complete talk: [Service Bus, a ride through Azure](https://www.youtube.com/watch?v=wL82DVvfNe8&list=PLh_ocureyz2fjIkZu0mH13MLKAOvtG_58&index=8).
+Follow along the explanation in YouTube: [Service Bus, a ride through Azure](https://www.youtube.com/watch?v=wL82DVvfNe8&list=PLh_ocureyz2fjIkZu0mH13MLKAOvtG_58&index=8).
 
 
 ###### The code was based on the Microsoft's samples
@@ -20,5 +20,4 @@ Here the complete talk: [Service Bus, a ride through Azure](https://www.youtube.
 
 ###### For a deeper understanding of the subject please read the Microsoft's documentation
 [What is Azure Service Bus?](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview).
-
 
